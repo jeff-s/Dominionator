@@ -1,0 +1,9 @@
+{
+	"id": "com.jeff.dominionator",
+	"version": "0.0.2",
+	"vendor": "The Regents of the Mule Software Development Technologies Consortia, LLP",
+	"type": "web",
+	"main": "index.html",
+	"title": "Dominionator",
+	"icon": "icon.png"
+}
